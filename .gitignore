@@ -1,0 +1,15 @@
+# Archivos binarios generados al compilar
+*.exe
+*.out
+*.test
+
+# Directorios de compilación
+/bin/
+
+# Configuraciones de editores
+.vscode/
+.idea/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
